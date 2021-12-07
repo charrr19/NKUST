@@ -4,5 +4,5 @@ public class game {
         Archer.HP = 15
         Archer.Att = 30
         Archer.MP = 10
-        Profession Berserker = new Profession()
+
 }
